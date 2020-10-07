@@ -1,0 +1,16 @@
+Betscoin is an innovative money disbursement system that aims to generate demand growth through it's unique and dynamic blocks rewards.
+It's a cryptocurrency with hybrid pos/pow mechanism.
+
+
+Name: BETSCOIN
+Ticker: BST
+Algorithm: Scrypt
+Type: POW / POS
+Maximum money: 15 M (15,000,000)
+Premine: [20%] 3 M (3,000,000)
+p2p port=38772
+rpc port=38773
+Block Time: 5 MIN.
+Minimum stake age: 3 hours 
+Coinbase maturity: 10 confirmations
+Max block size: 2000000

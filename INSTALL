@@ -1,0 +1,9 @@
+Building betscoin
+
+See doc/readme-qt.rst for instructions on building betscoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of betscoin.
+
+See doc/build-*.txt for instructions on building betscoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of betscoin.
